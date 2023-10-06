@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav Bahl @PranavSciML
-- 👀 I’m interested in Scientific Machine Learning and Fluid Mechanics
+- 👀 I’m interested in Quant research and Scientific machine learning (SciML)
 - 🌱 I’m currently a MSc student at Imperial College London
 - 📫 How to reach me -> Email: pranavbahl.imperial22@gmail.com 
 
